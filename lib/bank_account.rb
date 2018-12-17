@@ -9,10 +9,9 @@ class BankAccount
   end
 
   def deposit(money)
-    balance += money 
-    balance     
-  end 
+    balance += money
+    balance
+  end
 
 
 end
-
